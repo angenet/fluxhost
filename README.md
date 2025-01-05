@@ -1,0 +1,2 @@
+需要HUGGINGFACE的KEY，自己去获取
+界面由Gradio创建
